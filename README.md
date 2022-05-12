@@ -1,3 +1,5 @@
-# Jupyter Notebooks Template
+# Bot
 
-Just clone this repository and start writing your notebooks.
+## The bot
+
+This is a bot that does stuff.
