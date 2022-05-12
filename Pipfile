@@ -6,6 +6,10 @@ name = "pypi"
 [packages]
 ipykernel = "*"
 sklearn = "*"
+pandas = "*"
+fastapi = "*"
+requests = "*"
+uvicorn = "*"
 
 [dev-packages]
 ipykernel = "*"
